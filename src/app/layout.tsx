@@ -17,6 +17,7 @@ export default function RootLayout({
           sizes='any'
           href='https://prismic.io/favicon.ico'
         />
+        <meta property='og:url' content='Canonical link preview URL' />
       </head>
       <body>
         {children}
